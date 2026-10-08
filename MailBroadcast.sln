@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailBroadcast.Worker", "src\MailBroadcast.Worker\MailBroadcast.Worker.csproj", "{45C91288-7E12-475F-8D58-4287F4FD9A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailBroadcast.Tests", "tests\MailBroadcast.Tests\MailBroadcast.Tests.csproj", "{7C3BFD02-D3E4-4FDD-98FA-8166B78BD6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C91288-7E12-475F-8D58-4287F4FD9A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C91288-7E12-475F-8D58-4287F4FD9A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C91288-7E12-475F-8D58-4287F4FD9A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C91288-7E12-475F-8D58-4287F4FD9A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3BFD02-D3E4-4FDD-98FA-8166B78BD6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3BFD02-D3E4-4FDD-98FA-8166B78BD6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3BFD02-D3E4-4FDD-98FA-8166B78BD6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3BFD02-D3E4-4FDD-98FA-8166B78BD6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

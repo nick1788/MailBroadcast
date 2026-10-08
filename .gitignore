@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.vs/
+data/broadcast-state.json
+data/broadcast-state.json.tmp
+data/recipients.csv

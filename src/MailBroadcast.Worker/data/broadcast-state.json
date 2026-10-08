@@ -1,0 +1,29 @@
+{
+  "Recipients": {
+    "376911\nNITISH.SHETYE@GMAIL.COM": {
+      "CampaignId": "376911",
+      "Name": "Enox Exprience",
+      "Email": "nitish.shetye@gmail.com",
+      "Succeeded": true,
+      "LastAttemptDate": "2026-10-07",
+      "LastAttemptSucceeded": true,
+      "LastFailureDetail": null
+    },
+    "376942\nVISHAL.PRABHU199@GMAIL.COM": {
+      "CampaignId": "376942",
+      "Name": "Sameer Doshi",
+      "Email": "vishal.prabhu199@gmail.com",
+      "Succeeded": true,
+      "LastAttemptDate": "2026-10-07",
+      "LastAttemptSucceeded": true,
+      "LastFailureDetail": null
+    }
+  },
+  "AttemptsByDate": {
+    "2026-10-07": 2
+  },
+  "CompletedDates": [
+    "2026-10-05",
+    "2026-10-07"
+  ]
+}
